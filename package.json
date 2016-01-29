@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "esformatter": "^0.8.0"
+    "esformatter": "^0.9.0"
   },
   "name": "jstransformer-esformatter",
   "version": "0.1.0",
