@@ -14,7 +14,12 @@
 ## API
 
 ```js
-// TODO: Add API documentation.
+var esformatter = require('jstransformer')(require('jstransformer-esformatter'));
+
+esformatter.render(`foo(
+bar
+)`).body
+//=> 'foo(\n  bar\n)'
 ```
 
 ## License
