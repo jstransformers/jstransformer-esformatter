@@ -1,6 +1,6 @@
 'use strict'
 
-var esformatter = require('esformatter')
+const esformatter = require('esformatter')
 
 exports.name = 'esformatter'
 exports.outputFormat = 'jsx'
