@@ -15,7 +15,7 @@
 ## API
 
 ```js
-var esformatter = require('jstransformer')(require('jstransformer-esformatter'));
+var esformatter = require('jstransformer')(require('jstransformer-esformatter'))
 
 esformatter.render(`esformatter(
 bar
