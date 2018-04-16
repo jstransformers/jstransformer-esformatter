@@ -1,7 +1,5 @@
 # jstransformer-esformatter
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-esformatter.svg)](https://greenkeeper.io/)
-
 [esformatter](https://github.com/millermedeiros/esformatter) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-esformatter/master.svg)](https://travis-ci.org/jstransformers/jstransformer-esformatter)
